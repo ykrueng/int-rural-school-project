@@ -1,2 +1,2 @@
-# int-rural-school-project
+# International Rural School Report
 https://educell.org/#projects
